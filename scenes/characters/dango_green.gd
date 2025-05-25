@@ -16,7 +16,7 @@ var wall_jump: bool = false
 
 func _physics_process(delta: float) -> void:
 	
-	# Reiniciar saltos
+	# Reiniciar saltos.
 	if is_on_floor():
 		leaver_floor = false
 		had_jump = false

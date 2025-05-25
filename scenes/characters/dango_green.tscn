@@ -1,6 +1,6 @@
 [gd_scene load_steps=45 format=3 uid="uid://cge0l8e3n5ufw"]
 
-[ext_resource type="Script" path="res://scenes/characters/dango_green.gd" id="1_30edc"]
+[ext_resource type="Script" uid="uid://vbidl5o27jnt" path="res://scenes/characters/dango_green.gd" id="1_30edc"]
 [ext_resource type="Texture2D" uid="uid://bgfcnm80xv4bu" path="res://assets/spriter/atlas_dango_verde.png" id="1_f18fa"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_stk4o"]
